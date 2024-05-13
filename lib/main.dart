@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-import 'package:todoappwithprovider/screen/tasks_screen.dart';
-import 'package:todoappwithprovider/viewmodel/tasks_viewmodel.dart';
+import 'package:todoappwithprovider/view/screen/tasks_screen.dart';
+import 'package:todoappwithprovider/view_model/tasks_viewmodel.dart';
 
 void main() {
   runApp(const TodoApp());
